@@ -1,0 +1,19 @@
+{
+  "filesToRename" : [
+
+  ],
+  "remoteBones" : [
+
+  ],
+  "environmentPlaceholders" : {
+
+  },
+  "foldersToRename" : [
+
+  ],
+  "filePlaceholder" : "Bone",
+  "scripts" : [
+
+  ],
+  "initGit" : false
+}
