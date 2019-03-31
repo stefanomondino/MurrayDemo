@@ -7,7 +7,7 @@
   ],
   "remoteBones" : [],
   "environmentPlaceholders" : {
-      "userEmail": "guybrush@melee.island"
+      "userEmail": "guybrush@melee.island",
       "username": "Guybrush"
   },
   "filePlaceholder" : "Murray",
