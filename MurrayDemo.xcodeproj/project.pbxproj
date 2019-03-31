@@ -42,6 +42,8 @@
 		7046E8AA2250C97B00651240 /* Image.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
 		7046E8AC2250CBCF00651240 /* Episode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Episode.swift; sourceTree = "<group>"; };
 		7046E8AE2250CBF500651240 /* ShowResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowResult.swift; sourceTree = "<group>"; };
+		7046E8B12250D09500651240 /* Skeletonspec.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Skeletonspec.json; sourceTree = "<group>"; };
+		7046E8B222510CEB00651240 /* MurrayTemplates */ = {isa = PBXFileReference; lastKnownFileType = folder; path = MurrayTemplates; sourceTree = "<group>"; };
 		97E3920C9E89A41FABCE7FD3 /* Pods-App.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-App.debug.xcconfig"; path = "Target Support Files/Pods-App/Pods-App.debug.xcconfig"; sourceTree = "<group>"; };
 		A8B34CCB30E228DDAD445190 /* Pods_App.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_App.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -70,6 +72,7 @@
 		7046E876224FD8B000651240 = {
 			isa = PBXGroup;
 			children = (
+				7046E8B02250D07A00651240 /* Extras */,
 				7046E881224FD8B000651240 /* Sources */,
 				7046E880224FD8B000651240 /* Products */,
 				5A55B851DCDAB37751E37599 /* Pods */,
@@ -145,6 +148,15 @@
 				7046E8AA2250C97B00651240 /* Image.swift */,
 			);
 			path = API;
+			sourceTree = "<group>";
+		};
+		7046E8B02250D07A00651240 /* Extras */ = {
+			isa = PBXGroup;
+			children = (
+				7046E8B12250D09500651240 /* Skeletonspec.json */,
+				7046E8B222510CEB00651240 /* MurrayTemplates */,
+			);
+			name = Extras;
 			sourceTree = "<group>";
 		};
 		D7B8BE44EB3E4267BB37965C /* Frameworks */ = {

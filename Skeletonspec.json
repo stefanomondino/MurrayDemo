@@ -2,18 +2,17 @@
   "filesToRename" : [
 
   ],
-  "remoteBones" : [
-
-  ],
-  "environmentPlaceholders" : {
-
-  },
   "foldersToRename" : [
-
+      "MurrayDemo.xcodeproj"
   ],
-  "filePlaceholder" : "Bone",
+  "remoteBones" : [],
+  "environmentPlaceholders" : {
+      "userEmail": "guybrush@melee.island"
+      "username": "Guybrush"
+  },
+  "filePlaceholder" : "Murray",
   "scripts" : [
-
+      "pod install --repo-update"
   ],
-  "initGit" : false
+  "initGit" : true
 }
