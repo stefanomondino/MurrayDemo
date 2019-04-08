@@ -10,9 +10,11 @@
       "userEmail": "guybrush@melee.island",
       "username": "Guybrush"
   },
-  "filePlaceholder" : "Murray",
+  "filePlaceholder" : "MurrayDemo",
   "scripts" : [
-      "pod install --repo-update"
+      "pod install --repo-update",
+      "murray bone setup",
+      "open *space"
   ],
   "initGit" : true
 }
